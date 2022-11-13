@@ -7,23 +7,26 @@ body{
 /*   border: 1px solid red; */
   margin: 20px;
 }
-
 .nav-item{
   text-decoration: none;
   color: black;
   margin-right: 15px;
 }
-
 .nav-item:hover{
   text-decoration: underline;
 }
 
 .main{
-  margin-top: 300px;
+  margin-top: 150px;
 /*   vertical-align: center; */
   text-align: center;
 }
-
+.main-text{
+  margin-bottom: 100px;
+  color: red;
+  font-size: 25px;
+  font-weight: 500;
+}
 .input-area{
   margin-top: 20px;
 }
