@@ -1,5 +1,5 @@
 # Google_Clone
 
-Google Clone : [quiet-paprenjak-04a852.netlify.app](quiet-paprenjak-04a852.netlify.app)
+Google Clone : [https://quiet-paprenjak-04a852.netlify.app](https://quiet-paprenjak-04a852.netlify.app)
 
-<a href="quiet-paprenjak-04a852.netlify.app" target="_blank">Google Clone</a>
+<a href="https://quiet-paprenjak-04a852.netlify.app" target="_blank">Google Clone</a>
